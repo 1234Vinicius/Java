@@ -14,7 +14,7 @@ public class Programa {
         funcionario1.setEndereco(enderecoFuncionario1);
         funcionario2.setEndereco(enderecoFuncionario2);
 
-        funcionario1.setNome("Vinicius");
+        funcionario1.setNome("João");
         funcionario1.setSalario(2000.00);
 
         funcionario2.setNome("Leandro");
