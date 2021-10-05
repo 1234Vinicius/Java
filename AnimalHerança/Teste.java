@@ -19,7 +19,7 @@ public class Teste {
         cachorro.alimentar();
         cachorro.emitirSom();
         cachorro.brincar();
-        cachorro.setNome("Budogui");
+        cachorro.setNome("Buldogue");
         cachorro.setIdade(10);
 
         System.out.println("==============");
