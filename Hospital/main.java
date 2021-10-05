@@ -9,7 +9,7 @@ public class main {
 
         Paciente paciente = new Paciente();
        
-        paciente.Pessoa = José da Silva Campos";
+        paciente.Pessoa = "José da Silva Campos";
         paciente.CPF = "123.456-789-10";
         paciente.RG = "12-345-678-9";
         paciente.telefone = ("(11)999887799");
@@ -21,7 +21,7 @@ public class main {
 
         Medico medico = new Medico();
         medico.Pessoa = "Marcelo Perocco";
-        medico.especialidade = Ortopedista
+        medico.especialidade = "Ortopedista";
         medico.dataConsulta = paciente.dataConsulta;
         System.out.println("Você irá avaliar o paciente " + paciente.Pessoa + " no dia " + paciente.dataConsulta + " às " + paciente.horarioConsulta );
         medico.statusMedico();
