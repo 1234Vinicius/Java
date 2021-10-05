@@ -2,7 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-Programa%C3%A7%C3%A3o-red)
 ![Java](https://img.shields.io/badge/Programa%C3%A7%C3%A3o-Orientada%20a%20Objetos-blue)
+![Java](https://img.shields.io/badge/Conceito%20de%20-Heran%C3%A7a-yellow)
 ![Java](https://img.shields.io/badge/Conceito%20de%20-Polimorfismo-success)
+
 
 O Java é uma tecnologia usada para desenvolver aplicações que tornam a Web mais divertida e útil. O Java não é a mesma coisa que o javascript., que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser.
 O Java permite executar jogos, fazer upload de fotos, bater papo on-line, fazer tours virtuais e usar serviços, como treinamento on-line, transações bancárias on-line e mapas interativos. Se você não tiver o Java, muitas aplicações e websites simplesmente não funcionarão.
