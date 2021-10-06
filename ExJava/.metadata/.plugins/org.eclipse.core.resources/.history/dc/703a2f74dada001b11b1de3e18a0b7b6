@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		
+		String nome = "Vinicius"
+		
+		if(nome == "Vinicius ") {
+			System.out.println("Que nome lindo você tem");
+		} else {
+			System.out.println("Que nome comum você tem");
+		}
+		
+		
+		
+
+
+
+		
+		}
+	}
+
+

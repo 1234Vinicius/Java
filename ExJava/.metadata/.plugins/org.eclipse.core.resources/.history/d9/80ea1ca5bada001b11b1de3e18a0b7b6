@@ -1,0 +1,22 @@
+
+public class ExemploExercicios {
+	
+	public static void main(String[] args) {
+		
+		
+		int idade = 19;
+		String nome = "Vinicius tem " + idade + " anos";
+		System.out.println(idade);
+		
+		
+		
+		
+	}
+}
+		
+		
+		
+		
+	
+
+

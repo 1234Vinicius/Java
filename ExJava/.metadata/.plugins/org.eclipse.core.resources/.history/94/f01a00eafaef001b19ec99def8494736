@@ -1,0 +1,9 @@
+
+public class Equipamentos {
+	
+	public static void main(String[] args) {
+		
+		Bicicleta c1 = new Bicicleta()
+	}
+
+}

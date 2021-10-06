@@ -1,0 +1,11 @@
+
+public class ProgramaPrincipal {
+	
+	public static void main(String[] args) {
+		
+		Lutador l[] = new Lutador[3];
+		
+	
+	}
+
+}

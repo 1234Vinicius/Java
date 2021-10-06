@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class Nascimento {
+	
+	public static void main(String[] args) {
+		
+		int anoAtual, anoNascimento, qtdeAnos;
+		
+		System.out.println("Entre com o ano atual");
+    }
+}

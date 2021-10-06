@@ -1,0 +1,11 @@
+package snippet;
+
+public class Snippet {
+	public Pessoa(String nome, String endereco, String telefone) {
+			super();
+			this.nome = nome;
+			this.endereco = endereco;
+			this.telefone = telefone;
+		}
+}
+

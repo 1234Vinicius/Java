@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		String nomeUm = "Vinicius";
+		
+		
+		
+		if(nome == "Vinicius" ) {
+			System.out.println("Que nome lindo você tem " + nome);
+		
+		if(nomeUm == "Maria") {
+			System.out.println("Que nome lindo você tem " + nome);
+			
+		}
+		} else {
+			System.out.println("Que nome comum você tem");
+		}
+		
+		
+		
+
+
+
+		
+		}
+	}
+
+

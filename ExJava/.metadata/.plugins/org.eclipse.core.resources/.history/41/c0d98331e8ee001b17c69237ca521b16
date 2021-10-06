@@ -1,0 +1,11 @@
+
+public class Futebol {
+	
+	String time;
+	int qtdJogadores;
+	String estadio;
+	 String time;
+	
+	
+
+}

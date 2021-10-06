@@ -1,0 +1,36 @@
+public class Media {
+	
+	  
+	 public static void main(String[] args) {
+		 
+		 // int = números inteiros. 1,2,3,4,5,6...
+		// String = letras;
+		// char = caracteres
+		//  float = ponto flutuante 2.50, 1222.99...
+		// boolean = true ou false;
+		 
+		 int mes = 1;
+		 
+		 switch(mes) {
+		 
+		 case 1:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 
+			 
+			 
+			 
+		
+			 
+			 
+			 
+			 
+		 }
+		 
+	}
+	
+	
+	
+} 

@@ -1,0 +1,13 @@
+
+public class String {
+	
+	public static void main(String[] args) {
+		String a = a;
+		String a = new String("Vinicius");
+		String b = new String("Vinicius");
+
+		
+	}
+	
+	
+}

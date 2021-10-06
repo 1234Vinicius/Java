@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	
+
+	public static void main(String[] args) {
+		
+		String nome;
+		int idade = 18;
+		
+		System.out.println("Informe seu nome");
+		nome = new Scanner(System.in).nextLine();
+		
+		
+		idade = new Scanner(System.in).nextInt();
+		
+		
+		
+		
+		if(idade ==18) {
+			System.out.println("Você precisa se alistar " + nome);
+		} else {
+			System.out.println("Você não precisa se alistar no momento " + nome);
+		}
+	
+		
+	
+		
+		
+	}
+}
+

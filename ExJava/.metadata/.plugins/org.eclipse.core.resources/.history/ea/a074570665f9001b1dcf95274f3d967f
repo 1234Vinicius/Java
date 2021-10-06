@@ -1,0 +1,10 @@
+
+public class Aula01 {
+	
+	public static void main(String[] args) {
+		Casa casa = new Casa("joão lafinur ", 3929010, 520);
+		casa.statusCasa();
+		
+	}
+
+}

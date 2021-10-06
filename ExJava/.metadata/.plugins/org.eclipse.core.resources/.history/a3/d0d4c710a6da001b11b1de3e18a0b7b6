@@ -1,0 +1,20 @@
+
+public class Media {
+	
+	public static void main(String[] args) {
+		
+		
+		int somandoNumero = 200,100,200,300;
+		
+		
+		System.out.println(200,200,200,200);
+		
+	
+	
+		
+	}
+		
+
+}
+
+

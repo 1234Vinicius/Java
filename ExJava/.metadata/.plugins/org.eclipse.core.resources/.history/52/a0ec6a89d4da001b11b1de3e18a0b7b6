@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class NotaAluno {
+	
+	public static void main(String[] args) {
+		
+		
+		int notaUm, notaDois, notaTres, notaQuatro, media;
+		
+		System.out.println("Informe a primeira nota");
+		notaUm = new Scanner(System.in).nextInt();
+		System.out.println("Informe a segunda nota");
+		notaDois = new Scanner(System.in).nextInt();
+		System.out.println("Informe a terceira nota");
+		notaTres = new Scanner(System.in).nextInt();
+		System.out.println("Informe a quarta nota");
+		notaQuatro = new Scanner(System.in).nextInt();
+		media = (notaUm + notaDois + notaTres + notaQuatro)/4;
+		
+		System.out.println("A sua média foi de " + media + " pts.");
+		
+		if(media >=5) {
+			System.out.println("Parabéns! Você passou de ano!");
+		} else if (media <=4) {
+			System.out.println("Você repetiu de ano! Estude mais.");
+		}
+		
+	}
+
+}

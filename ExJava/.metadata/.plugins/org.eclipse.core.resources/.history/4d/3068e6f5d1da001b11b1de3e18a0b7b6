@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Nascimento {
+	
+	public static void main(String[] args) {
+		
+		int anoAtual, anoNascimento, qtdeAnos;
+		
+		s!")System.out.println("Entre com o ano Atual");
+		anoAtual = new Scanner(System.in).nextInt();
+		System.out.println("Entre com o ano de nascimento:");
+        anoNascimento = new Scanner(System.in).nextInt();
+        qtdeAnos = anoAtual - anoNascimento;
+        System.out.println("Em "+anoAtual+" você faz (ou já fez) "+qtdeAnos+" ano;
+    }
+}

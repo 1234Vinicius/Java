@@ -1,0 +1,14 @@
+
+public class Media {
+	
+	public static void main(String [] args) {
+		
+		
+		int notaUm = 10;
+		int notaDois = 2;
+		int notaTres = 6;
+		int notaQuatro = 8;
+		int media = notaUm + notaDois + notaTres + notaQuatro /4;
+	}
+
+}

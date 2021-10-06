@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		int anoAtual, anoNascimento, qtdAno;
+		
+		System.out.println("Informe o ano atual");
+		anoAtual = new Scanner(System.in).nextInt();
+		
+		
+		
+
+
+
+		
+		}
+	}
+
+

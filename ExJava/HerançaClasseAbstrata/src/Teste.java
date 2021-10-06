@@ -1,0 +1,43 @@
+
+public class Teste {
+	
+	public static void main(String[] args) {
+		
+
+		
+		Aluno aluno = new Aluno();
+		System.out.println("=====================");
+		System.out.println("INFORMAÇÕES DO ALUNO:");
+		aluno.setNome("Vinicius");
+		aluno.setEndereco("Rua josé freitas");
+		aluno.setNumeroCasa("211");
+		aluno.setCpf("111-111-111-11");
+		aluno.setTelefone("(11)99887799");
+		aluno.nome();
+		
+		
+		System.out.println("Nome: " + aluno.getNome());
+		System.out.println("Endereço: " + aluno.getEndereco());
+		System.out.println("Número da Casa: " + aluno.getNumeroCasa());
+		System.out.println("CPF: " + aluno.getCpf());
+		System.out.println("Telefone: " + aluno.getTelefone());
+		System.out.println("=======================");
+		
+		
+		Professor professor = new Professor();
+		System.out.println("INFORMAÇÕES DO PROFESSOR:");
+		professor.setNome("Marcos");
+		professor.setSalario(1222.22);
+		professor.setCpf("222-222-222-22");
+		professor.setNomeCurso("TI");
+		professor.nome();
+		
+		
+		System.out.println("Nome: " + professor.getNome());
+		System.out.println("Salário: " + professor.getSalario());
+		System.out.println("CPF: " + professor.getCpf());
+		System.out.println("Profissão: " + professor.getNomeCurso());
+		
+	}
+
+}

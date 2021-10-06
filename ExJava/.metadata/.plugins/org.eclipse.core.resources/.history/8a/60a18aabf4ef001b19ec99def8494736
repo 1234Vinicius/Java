@@ -1,0 +1,20 @@
+
+public class Alis {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		int alistamento = 18;
+		
+		if(alistamento == 18) {
+			System.out.println("Você precisa se alistar");
+		} else if(alistamento <=17) {
+			System.out.println("Você não precisa se alistar no momento");
+		} else {
+			System.out.println("Você já se alistou");
+
+		}
+	}
+
+}

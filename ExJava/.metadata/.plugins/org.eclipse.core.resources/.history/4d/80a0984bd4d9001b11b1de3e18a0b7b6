@@ -1,0 +1,13 @@
+
+public class testa_variaveis {
+
+	public static void main(String[] args) {
+		System.out.println("testando");
+		
+		
+		int idade;
+		idade = 37;
+		
+		System.out.println(idade);
+	}
+}

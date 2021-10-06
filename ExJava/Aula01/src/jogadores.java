@@ -1,0 +1,29 @@
+
+public class jogadores {
+	
+	public static void main(String[] args) {
+		
+	
+	
+	
+	Futebol torcer = new Futebol();
+	torcer.time = "São Paulo";
+	torcer.qtdJogadores = 11;
+	torcer.estadio = "Morumbi";
+	torcer.resultado();
+	
+	
+	
+	
+	}
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		String nome;
+		
+		System.out.println("Informe seu nome");
+		nome = new Scanner(System.in).toString();
+
+
+
+		
+		}
+	}
+
+}

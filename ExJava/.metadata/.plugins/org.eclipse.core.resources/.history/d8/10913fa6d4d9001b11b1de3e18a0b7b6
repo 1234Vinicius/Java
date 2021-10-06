@@ -1,0 +1,16 @@
+
+public class testa_variaveis {
+
+	public static void main(String[] args) {
+		System.out.println("testando");
+		
+		
+		int idade;
+		idade = 19;
+		
+		System.out.println(idade);
+		
+		idade = 30 + 10;
+		idae = (7*5) + 2;
+	}
+}

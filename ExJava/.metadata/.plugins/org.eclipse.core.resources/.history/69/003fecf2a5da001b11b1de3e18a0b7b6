@@ -1,0 +1,18 @@
+
+public class Media {
+	
+	public static void main(String[] args) {
+		
+	
+	String nome;
+	double n1,n2,n3,n4, media = nota;
+	
+	System.out.println("Informe sua nota");
+	
+		
+	}
+		
+
+}
+
+}

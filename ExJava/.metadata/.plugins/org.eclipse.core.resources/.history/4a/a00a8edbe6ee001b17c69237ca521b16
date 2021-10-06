@@ -1,0 +1,27 @@
+
+public class Livro {
+	
+	String auto;
+	int qtdCapa;
+	String editora;
+	String tipoCapa;
+	String idioma;
+	boolean aberto;
+	
+	
+	void estudar() {
+		if(this.aberto == false) {
+			System.out.println("O livro está fechado não tem como estudar");
+		} else {
+			System.out.println("Pode estudar o livro está aberto");
+		}
+		
+		void ola() {
+			this.aberto = true;
+		
+		}
+		
+	}
+	}
+
+

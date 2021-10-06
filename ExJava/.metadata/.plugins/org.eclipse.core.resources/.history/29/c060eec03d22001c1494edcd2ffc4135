@@ -1,0 +1,24 @@
+
+public class Rico {
+	
+	private double dinheiro;
+	
+	
+	public void fazerCompras() {
+		
+	}
+
+
+	public double getDinheiro() {
+		return dinheiro;
+	}
+
+
+	public void setDinheiro(double dinheiro) {
+		this.dinheiro = dinheiro;
+	}
+	
+	
+	
+
+}

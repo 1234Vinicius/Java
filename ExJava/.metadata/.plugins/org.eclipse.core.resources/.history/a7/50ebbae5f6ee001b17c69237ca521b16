@@ -1,0 +1,24 @@
+
+public class Futebol {
+	
+	String time;
+	int qtdJogadores;
+	String estadio;
+	
+	
+	
+	void resultado() {
+		System.out.println("Você torce para o são paulo " + time);
+		System.out.println("Entram no campo 11 jogadores de cada time " + qtdJogadores);
+		System.out.println("Você está no estádio do morumbi " + estadio);
+	}
+	
+	
+  void rabiscar() {
+	  if(this.time == "São Paulo") {
+		  System.out.println("Você é são paulino");
+	  } else {
+		  System.out.println("Você não é são paulino");
+	  }
+  }
+}

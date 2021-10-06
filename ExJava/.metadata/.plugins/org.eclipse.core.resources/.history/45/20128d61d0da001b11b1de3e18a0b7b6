@@ -1,0 +1,26 @@
+
+public class TestaWhile {
+	
+	public static void main(String[] args) {
+		
+		int cores = 2;
+		
+		switch(cores) {
+		
+		case 1:
+			System.out.println("Você escolheu a cor amarela");
+			break;
+			
+		case 2:
+			System.out.println("Você escolhe a cor verde");
+			break;
+			
+			
+			default:
+				System.out.println("Cor inválida");
+		
+		
+		}
+	}
+
+}

@@ -1,0 +1,23 @@
+
+public class ExemploExercicios {
+	
+	public static void main(String[] args) {
+		
+		
+		int somaNumero = 1 + 2;
+		int multiplicaNumero = 1 * 2;
+		
+		System.out.println(somaNumero );
+		
+		
+		
+		
+	}
+}
+		
+		
+		
+		
+	
+
+

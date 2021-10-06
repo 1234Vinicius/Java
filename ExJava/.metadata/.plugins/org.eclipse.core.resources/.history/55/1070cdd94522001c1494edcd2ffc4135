@@ -1,0 +1,6 @@
+
+public class String {
+	
+	String a = new String("Vinicius");
+
+}

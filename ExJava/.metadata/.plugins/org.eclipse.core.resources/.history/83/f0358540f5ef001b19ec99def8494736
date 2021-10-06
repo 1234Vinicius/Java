@@ -1,0 +1,17 @@
+
+public class Alis {
+	
+	public static void main(String[] args) {
+		
+		
+	int idade;
+	
+	System.out.println("Qual a sua idade");
+	idade = new(Scanner.in).nextInt();
+	
+	if(idade =)
+
+		}
+	}
+
+}

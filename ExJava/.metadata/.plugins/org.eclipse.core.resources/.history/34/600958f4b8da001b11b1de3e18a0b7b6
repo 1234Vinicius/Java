@@ -1,0 +1,70 @@
+public class Media {
+	public static void main(String[] args) {
+		
+		
+		
+		int mes = 12;
+		
+		switch(mes) {
+		
+		case 1:
+			System.out.println("O mês que você escolheu é janeiro");
+			break;
+			
+		case 2:
+			System.out.println("O mês que você escolheu é fevereiro");
+			break;
+			
+		case 3:
+			System.out.println("O mês que você escolheu é março");
+			break;
+			
+		case 4:
+			System.out.println("O mês que você escolheu é abril");
+			break;
+			
+		case 5:
+			System.out.println("O mês que você escolheu é maio");
+			break;
+			
+		case 6:
+			System.out.println("O mês que você escolheu é junho");
+			break;
+			
+		case 7:
+			System.out.println("O mês que você escolheu é julho");
+			break;
+			
+		case 8:
+			System.out.println("O mês que você escolheu é agosto");
+			break;
+			
+			
+		case 9:
+			System.out.println("O mês que você escolheu é setembro");
+			break;
+			
+		case 10:
+			System.out.println("O mês que você escolheu é outubro");
+			break;
+			
+		case 11:
+			System.out.println("O mês que você escolheu é novembro");
+			break;
+			
+		case 12:
+			System.out.println("O mês que você escolheu é dezembro");
+			break;
+		
+			
+			default:
+				System.out.println("Mê inválido");
+				break;
+			
+			
+			
+			
+			
+		}
+	}
+}

@@ -1,0 +1,25 @@
+
+public class ExemploExercicios {
+	
+	public static void main(String[] args) {
+		
+		
+		int salario = 10000;
+		
+		if(salario <=1085) {
+			System.out.println("Você recebe um salário minímo");
+			
+		}else if (salario >=5000) {
+			System.out.println("Você recebe 5 salários minímos");
+			
+		} else if(salario == 10000)
+		
+		
+			System.out.println("Você recebe 10 salarios minímos");
+		}
+		
+		
+		
+	}
+
+

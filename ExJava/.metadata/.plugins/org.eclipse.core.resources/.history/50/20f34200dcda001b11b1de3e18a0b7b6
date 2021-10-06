@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		
+		String nome;
+		int anoAtual, anoNascimento, qtdAno;
+		
+		System.out.println("Informe seu nome");
+		nome = new Scanner(System.in).toString();
+		
+		System.out.println("Informe o ano atual");
+		anoAtual = new Scanner(System.in).nextInt();
+		System.out.println("Informe o ano de nascimento");
+		anoNascimento = new Scanner(System.in).nextInt();
+		qtdAno = anoAtual - anoNascimento;
+		System.out.println("Em " + anoAtual + " Você faz (ou fez) " + qtdAno + " anos");
+		
+		
+		
+		anoAtual = new Scanner(System.in).nextInt();
+
+
+		
+		}
+	}
+
+

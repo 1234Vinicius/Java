@@ -1,0 +1,59 @@
+
+public class Bicicleta {
+	
+	String nome;
+	int pneus;
+	String cor;
+	boolean rodas;
+	
+	public String getnome() {
+		return this.nome;
+	}
+	
+	void status() {
+		System.out.println("Sobre a bicileta");
+		System.out.println("Bicicleta: " + this.getnome());
+		System.out.println("Cor: " + this.getcor());
+		System.out.println("Rodas: " + this.rodas);
+		
+	}
+	
+	public void setnome(String n) {
+		this.nome = n;
+	}
+	
+	public int getpneus() {
+		return this.pneus;
+	}
+	
+	public void setpneus(int n) {
+		this.pneus = n;
+	}
+	
+	public String getcor() {
+		return this.cor;
+	}
+	
+	public void setcor(String c) {
+		this.cor = c; 
+	}
+	
+	public boolean getrodas() {
+		return this.rodas;
+		
+	}
+	
+	public void setrodas(boolean r) {
+		this.rodas = r;
+	}
+	
+	void girar(){
+		if(rodas == true) {
+			System.out.println("A bicicleta está girando");
+		} else {
+			System.out.println("A bicicleta está parada");
+		}
+		
+	}
+
+}

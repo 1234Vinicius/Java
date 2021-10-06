@@ -1,0 +1,19 @@
+
+public class jogadores {
+	
+	public static void main(String[] args) {
+		
+	
+	
+	
+	Futebol torcer = new Futebol();
+	torcer.resultado();
+	
+	
+	
+	}
+	
+	
+	
+
+}

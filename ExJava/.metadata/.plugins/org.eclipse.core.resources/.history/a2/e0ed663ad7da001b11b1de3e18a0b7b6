@@ -1,0 +1,17 @@
+
+public class Horario {
+	
+	public static void main(String[] args) {
+		
+		int horario = 6;
+		
+		if(horario >=12 && horario <=17) {
+			System.out.println("Tarde");
+		} else if (horario >=18 && horario <=00) {
+			System.out.println("Noite");
+		} else if (horario >=05 && horario <=11) {
+			System.out.println("Dia");
+		}
+	}
+
+}

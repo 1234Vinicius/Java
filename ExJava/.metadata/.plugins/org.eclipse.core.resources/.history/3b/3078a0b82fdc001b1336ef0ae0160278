@@ -1,0 +1,17 @@
+
+public class Tabuada {
+	
+	public static void main(String[] args) {
+		
+		int multiplicador = 1;
+		
+		while(multiplicador <=10) {
+			System.out.println(multiplicador);
+			multiplicador++;
+			
+			
+		}
+		
+	}
+
+}

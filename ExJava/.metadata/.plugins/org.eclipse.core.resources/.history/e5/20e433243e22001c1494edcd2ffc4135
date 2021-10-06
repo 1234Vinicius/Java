@@ -1,0 +1,10 @@
+
+public class Mendiga extends Pessoa {
+	
+	public void mendiga() {
+		
+		System.out.println("O mendigo pede esmola.");
+		
+	}
+
+}

@@ -1,0 +1,46 @@
+public class Media {
+
+	public static void main(String[] args) {
+		System.out.prinln("hello world");
+
+
+		int dia = 1;
+
+		switch(dia) {
+			case 1:
+			System.out.prinln("O dia que você escolheu é 1");
+			break;
+
+			case 2:
+			System.out.prinln("O dia que você escolheu é 2");
+			break;
+
+
+			case 3:
+			System.out.prinln("O dia que você escolheu é 3");
+			break;
+
+			case 4:
+			System.out.prinln("O dia que você escolheu é 4");
+			break;
+
+			case 5:
+			System.out.prinln("O dia que você escolheu é 5");
+			break;
+
+			case 6:
+			System.out.prinln("O dia que você escolheu é 6");
+			break;
+
+			case 7:
+			System.out.prinln("O dia que você escolheu é 7");
+			break;
+
+
+
+
+
+		}
+
+	}
+}

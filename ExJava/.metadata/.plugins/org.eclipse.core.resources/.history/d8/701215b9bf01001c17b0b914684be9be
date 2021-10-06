@@ -1,0 +1,52 @@
+
+public class Lutador {
+	
+		private String nome;
+		private String nacionalidade;
+		private int idade;
+		private float peso;
+		private String categorias;
+		private int vitorias;
+		private int derrotas;
+		private int empates;
+		
+		
+		public void apresentar() {
+			System.out.println("");
+			
+			
+		}
+		
+		public void status() {
+			
+		}
+		
+		public void ganharLuta() {
+			
+		}
+	
+		public void perderLuta() {
+			
+		}
+	
+		public void empatarLuta() {
+			
+		}
+
+		public Lutador(String no, String na, int id, float pe, String ca, int vi,
+				int de, int em) {
+			super();
+			this.nome = no;
+			this.nacionalidade = na;
+			this.idade = id;
+			this.peso = pe;
+			this.categorias = ca;
+			this.vitorias = vi;
+			this.derrotas = de;
+			this.empates = em;
+		}
+		
+		
+		
+		
+}

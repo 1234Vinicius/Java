@@ -1,0 +1,15 @@
+
+public class Media {
+	
+	public static void main(String [] args) {
+		
+		
+		int notaUm = 10;
+		int notaDois = 10;
+		int notaTres = 10;
+		int notaQuatro = 10;
+		int media = notaUm + notaDois + notaTres + notaQuatro /4;
+		System.out.println("A média é " + media);
+	}
+
+}

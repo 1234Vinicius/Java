@@ -1,0 +1,18 @@
+
+public class Tabuada {
+	
+	public static void main(String[] args) {
+		
+		int multiplicador = 1;
+		int contador = 0;
+		
+		while(multiplicador <=10) {
+			System.out.println(multiplicador * contador);
+			multiplicador++;
+			
+			
+		}
+		
+	}
+
+}

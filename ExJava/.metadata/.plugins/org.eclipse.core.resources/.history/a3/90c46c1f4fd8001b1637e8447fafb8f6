@@ -1,0 +1,7 @@
+public class Programa {
+	
+		public static void main(System[] args) {
+			
+			System.out.println("ola mundo");
+		}
+}

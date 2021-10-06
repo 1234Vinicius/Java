@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Horario {
+	
+	private static Scanner input;
+
+	public static void main(String[] args) {
+		
+		String nome;
+		
+	nome = new Scanner(System.in).nextLine();
+		
+		
+	
+		
+		
+	}
+}
+

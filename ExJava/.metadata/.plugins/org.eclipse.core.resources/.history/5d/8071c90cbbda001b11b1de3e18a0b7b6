@@ -1,0 +1,25 @@
+
+public class ExemploExercicios {
+	
+	public static void main(String[] args) {
+		
+		
+		String nome = "Vinicius ";
+		String nomeUm = " tem";
+		String nomeDois = " uma";
+		String nomeTres = " maçã";
+		
+		System.out.println(nome + nomeUm + nomeDois + nomeTres);
+		
+		
+		
+		
+	}
+}
+		
+		
+		
+		
+	
+
+

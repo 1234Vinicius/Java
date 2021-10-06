@@ -1,0 +1,18 @@
+
+public class TestaWhile {
+	
+	public static void main(String[] args) {
+		
+		String nome = "Yasmin";
+		int idade = 13;
+		
+		String nomeUm = "Davi";
+		int idadeUm = "10";
+		
+		System.out.println(nome + " tem" + idade + " anos");
+		
+		
+		
+	}
+
+}

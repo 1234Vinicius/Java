@@ -1,0 +1,37 @@
+
+public class Lutador {
+	
+		nome;
+		nacionalidade;
+		idade;
+		peso;
+		categorias;
+		vitorias;
+		derrotas;
+		empates;
+		
+		
+		public void apresentar() {
+			
+		}
+		
+		public void status() {
+			
+		}
+		
+		public void ganharLuta() {
+			
+		}
+	
+		public void perderLuta() {
+			
+		}
+	
+		public void empatarLuta() {
+			
+		}
+		
+		
+		
+		
+}

@@ -1,0 +1,18 @@
+
+public class Media {
+	
+	public static void main(String[] args) {
+		
+		String nome = "Vinicius";
+		int idade = 19;
+		System.out.println("O " + nome + " tem  " + idade + " anos");
+		
+		
+	
+		
+	}
+		
+
+}
+
+

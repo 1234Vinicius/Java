@@ -1,0 +1,13 @@
+
+public class Bicicleta {
+	
+	String nome;
+	int pneus;
+	String cor;
+	boolean rodas;
+	
+	public void getnome() {
+		return this.nome;
+	}
+
+}

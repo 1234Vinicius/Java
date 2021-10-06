@@ -1,0 +1,80 @@
+public class Media {
+	
+	  
+	 public static void main(String[] args) {
+		 
+		
+		 
+		 int mes = 2;
+		 
+		 switch(mes) {
+		 
+		 case 1:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de fevereiro");
+			 break;
+			 
+			 
+			 
+			 
+		 case 3:
+			 System.out.println("Você escolheu o mês de março");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+		 case 2:
+			 System.out.println("Você escolheu o mês de janeiro");
+			 break;
+			 
+			 
+			 
+			 
+		 
+			 
+			 
+			 
+		
+			 
+			 
+			 
+			 
+		 }
+		 
+	}
+	
+	
+	
+} 

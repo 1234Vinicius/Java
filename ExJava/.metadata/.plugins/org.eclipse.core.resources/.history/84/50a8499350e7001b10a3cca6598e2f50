@@ -1,0 +1,17 @@
+package byteBank;
+
+public class Vini {
+	
+	public static void main(String[] args) {
+		
+	
+	
+	Conta contaVinicius = new Conta();
+	
+	contaVinicius.saldo = 100;
+	
+	System.out.println("A conta do Vinicius está em R$" + contaVinicius.saldo);
+	
+	
+	}
+}

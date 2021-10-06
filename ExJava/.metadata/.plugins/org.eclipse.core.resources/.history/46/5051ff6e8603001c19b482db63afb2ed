@@ -1,0 +1,25 @@
+
+public class ProgramaPrincipal {
+	
+	public static void main(String[] args) {
+		
+		Lutador l[] = new Lutador[3];
+		
+		
+		Lutador.newObj().nome("").nacionalidade("").idade(0).peso(0).altura(0);
+		
+		l[0] = new Lutador("Vinicius ", "Brasil", 31, 1.75f, 78.9f,11,2,1);
+		l[1] = new Lutador ("Teste", "França", 31, 1.80f, 67.2f, 10, 5 , 2);
+		
+		
+		System.out.println("=======LUTADOR 1 =======");
+		l[0].apresentar();
+		l[0].status();
+		System.out.println("=======LUTADOR 2=======");
+		l[1].apresentar();
+		
+		
+	
+	}
+
+}

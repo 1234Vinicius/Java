@@ -1,0 +1,15 @@
+
+public class ProgramaPrincipal {
+	
+	public static void main(String[] args) {
+		
+		Lutador l[] = new Lutador[3];
+		
+		l[0] = new Lutador("Vinicius ", "Brasil", 31, 1.75f, 78.9f,11,2,0);
+		l[0].apresentar();
+		
+		
+	
+	}
+
+}

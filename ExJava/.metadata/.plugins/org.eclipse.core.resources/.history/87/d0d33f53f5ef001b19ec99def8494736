@@ -1,0 +1,25 @@
+
+public class Alis {
+	
+	public static void main(String[] args) {
+		
+		
+	int idade = 11;
+	
+	if(idade >18 && idade <60) {
+		System.out.println("ADULTO!");
+		 if(idade <=17 && idade >=13) {
+			System.out.println("ADOLESCENTE");
+		if(idade <=12) {
+			System.out.println("CRIANÇA");
+		} else {
+			System.out.println("IDOSO");
+		}
+		 }
+	
+	
+
+		}
+	}
+
+}

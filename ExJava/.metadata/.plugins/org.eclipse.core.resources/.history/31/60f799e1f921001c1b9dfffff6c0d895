@@ -1,0 +1,13 @@
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		Aluno aluno = new Aluno();
+		aluno.setNome("Vinicius");
+		aluno.setEndereco("Rua josé freitas");
+		aluno.setCpf("111-111-111-11");
+		aluno.setTelefone("(11)99887799");
+	}
+
+}
