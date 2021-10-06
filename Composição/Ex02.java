@@ -7,7 +7,7 @@ public class Ex02 {
     public static void main(String[] args) {
 
         String nome, sobrenome, sexo;
-        int idade, numVitorias, numEmpates, numDerrotas;
+        int idade;
         double peso, altura;
         boolean infoValida = false;
 
@@ -86,47 +86,58 @@ public class Ex02 {
         } while(!infoValida);
 
         infoValida = false;
-
-
+        
+        
+        
         do{
 
-            System.out.println("Vitórias: ");
-            numVitorias = scan.nextInt();
+            System.out.println("Peso: ");
+            peso = scan.nextDoble();
 
-            if(numVitorias == 1){
-                 infoValida = true;
-                 numVitorias = numVitorias +1; 
-                 System.out.println("Vitórias cadastrada com sucesso!");
-            } else {
-                infoValida = false;
+            if(peso >0){
+                infoValida = true;
+                System.out.println("Peso cadastrado com sucesso!")
+                } else {
+                 infoValida = false;
+                 System.out.println("Peso precisa ser maior que 0!");
                 
-            }
+                }
+           
 
         } while(!infoValida);
-
-
+        
         infoValida = false;
-
-
-
+        
+        
         do{
 
-            System.out.println("Vitórias: ");
-            numVitorias = scan.nextInt();
+            System.out.println("Altura: ");
+            altura = scan.nextDoble();
 
-            if(numVitorias == 1){
-                 infoValida = true;
-                 numVitorias = numVitorias +1; 
-                 System.out.println("Vitórias cadastrada com sucesso!");
-            } else {
-                infoValida = false;
+            if(altura >1.30){
+                infoValida = true;
+                System.out.println("Altra cadastrada com sucesso!")
+                } else {
+                 infoValida = false;
+                 System.out.println("Altura precisa ser maior que 1.30!");
                 
-            }
+                }
+           
 
         } while(!infoValida);
+        
+        
+        System.out.println("Nome: " + nome);
+         System.out.println("Sobrenome: " + sobrenome);
+         System.out.println("Idade: " + idade + " anos);
+         System.out.println("Sexo: " + sexo);
+         System.out.println("Nome: " + nome);
+          System.out.println("Peso: " + peso);
+          ystem.out.println("Altra: " + altura);
+        
 
 
-        infoValida = false;
+       
 
 
 
